@@ -13,7 +13,7 @@ The objective of this folder is to define interesting or commonly used models, s
 - [ ] Quarter Car Model
 - [ ] Unicyle 
 - [ ] Van der Pol Oscillator 
-- [ ] 
+- [ ] Intermediate Axis Theorem
 
 ## System Dynamics 
 - [ ] Electrical Motor 
